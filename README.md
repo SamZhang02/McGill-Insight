@@ -7,4 +7,6 @@ A website for students to share their experiences and information about courses 
 
 ---
 
-
+### Directory Structure
+- `data/`: data collection, processing and loading.
+- -
