@@ -7,4 +7,8 @@ A website for students to share their experiences and information about courses 
 
 ---
 
-
+### Directory Structure
+- `data/`: Data collection, processing and loading.
+    -  `/processor.py` processes the courses info JSON file and loads it into the db.
+- `client/`: Components, pages, assets
+- `server/`: Requests handling, route, models, utilities
